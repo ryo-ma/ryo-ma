@@ -1,4 +1,4 @@
-Hi, I am Ryota Sakamoto(ryo-ma).
+Hi, I'm Ryota Sakamoto(ryo-ma).I'm an IT engineer in Japan. I'm interested in creating tools and products that are useful to engineers.
 
 
 # Acitivity
