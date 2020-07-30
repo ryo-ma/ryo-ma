@@ -8,6 +8,8 @@ Hi, I am Ryota Sakamoto(ryo-ma).
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&theme=monokai&layout=compact" />
 </div>
 
+---
+
 <details>
 <summary><b>more detail</b></summary>
   
