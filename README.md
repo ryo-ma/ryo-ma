@@ -26,14 +26,14 @@ Hi, I'm Ryota Sakamoto(ryo-ma).I'm an IT engineer in Japan. I'm interested in cr
 <h1>Patent</h1>
 
 ## 発行国/特許番号  jp/特許第6533963
-* ユーザ端末、認証端末、認証方法及び決済プログラム
+* ユーザ端末、認証端末、認証方法及び決済プログラム (User terminals, authentication terminals, authentication methods and payment programs)
 
 ## 発行国/特許番号  jp/特許第6447949  
-* 決済システム、決済サーバ、決済方法及び決済プログラム
+* 決済システム、決済サーバ、決済方法及び決済プログラム (Payment systems, payment servers, payment methods and payment programs)
 
 <h1>Books</h1>
 
-* [Ansible徹底活用ガイド ThinkIT 2016_10/6](https://www.amazon.co.jp/Ansible-%E5%BE%B9%E5%BA%95%E6%B4%BB%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89-Think-Books-%E5%B9%B3/dp/4844381660/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
+* [Ansible徹底活用ガイド ThinkIT 2016_10/6 (The Complete Guide to Ansible ThinkIT)](https://www.amazon.co.jp/Ansible-%E5%BE%B9%E5%BA%95%E6%B4%BB%E7%94%A8%E3%82%AC%E3%82%A4%E3%83%89-Think-Books-%E5%B9%B3/dp/4844381660/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=)
 
 <h1>Popular Repository</h1>
                  
