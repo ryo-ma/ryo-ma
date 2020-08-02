@@ -26,10 +26,12 @@ Hi, I'm Ryota Sakamoto(ryo-ma).I'm an IT engineer in Japan. I'm interested in cr
 <h1>Patent</h1>
 
 ## 発行国/特許番号  jp/特許第6533963
-* ユーザ端末、認証端末、認証方法及び決済プログラム (User terminals, authentication terminals, authentication methods and payment programs)
+* ユーザ端末、認証端末、認証方法及び決済プログラム  
+(User terminals, authentication terminals, authentication methods and payment programs)
 
 ## 発行国/特許番号  jp/特許第6447949  
-* 決済システム、決済サーバ、決済方法及び決済プログラム (Payment systems, payment servers, payment methods and payment programs)
+* 決済システム、決済サーバ、決済方法及び決済プログラム  
+(Payment systems, payment servers, payment methods and payment programs)
 
 <h1>Books</h1>
 
