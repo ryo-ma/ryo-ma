@@ -5,6 +5,9 @@ Hi, I'm Ryota Sakamoto(ryo-ma).I'm an IT engineer in Japan. I'm interested in cr
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&theme=monokai&layout=compact" />
 </div>
 
+<h2> Github Trophy</h2>
+<img src="https://github-profile-trophy-g00ekzywh.vercel.app/"/>
+
 ---
 
 <details>
