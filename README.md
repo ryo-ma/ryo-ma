@@ -6,7 +6,10 @@ Hi, I'm Ryota Sakamoto(ryo-ma).I'm an IT engineer in Japan. I'm interested in cr
 </div>
 
 <h2> Github Trophy</h2>
-<img src="https://github-profile-trophy.vercel.app/"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/"/>
+</a>
+<h4><a href="https://github.com/ryo-ma/github-profile-trophy">ryo-ma/github-profile-trophy</a></h4>
 
 ---
 
