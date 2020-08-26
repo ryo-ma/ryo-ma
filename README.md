@@ -11,9 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
 </div>
 
-
----
-
 <details>
 <summary><b>more detail</b></summary>
   
