@@ -6,10 +6,11 @@ Hi, I'm Ryota Sakamoto(ryo-ma).I'm an IT engineer in Japan. I'm interested in cr
 </a>
 <h4><a href="https://github.com/ryo-ma/github-profile-trophy">ryo-ma/github-profile-trophy</a></h4>
 
+---
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true&theme=monokai" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&theme=monokai&layout=compact" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
 </div>
 
 
