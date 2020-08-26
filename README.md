@@ -1,5 +1,3 @@
-Hi, I'm Ryota Sakamoto(ryo-ma).I'm an IT engineer in Japan. I'm interested in creating tools and products that are useful to engineers.
-
 <h2> Github Trophy</h2>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma"/>
