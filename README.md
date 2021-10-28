@@ -1,14 +1,16 @@
-<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<h2 align="center"><a href="https://github.com/ryo-ma/github-profile-trophy">🏆 Github Profile Trophy</a></h2>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
+  <img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true&row=2&column=4"/>
 </a>
 
 ---
 
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
+<div align="center">
+  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=ryo-ma&count_private=true&include_all_commits=true&theme=gruvbox" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact&theme=gruvbox" />
 </div>
+
+---
 
 <!--
 
